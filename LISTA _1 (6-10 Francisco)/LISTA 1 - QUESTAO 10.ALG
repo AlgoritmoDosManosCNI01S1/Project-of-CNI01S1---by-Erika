@@ -5,7 +5,7 @@ Algoritmo "semnome"
 // Data atual  : 06/10/2019
 Var
 // Seção de Declarações das variáveis 
-nasc, ano_a, idade, id_meses, id_ano: real;
+nasc, ano_a, idade,id_meses, id_ano: real;
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
