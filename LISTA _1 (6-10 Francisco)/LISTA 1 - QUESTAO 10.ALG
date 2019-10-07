@@ -5,7 +5,7 @@ Algoritmo "semnome"
 // Data atual  : 06/10/2019
 Var
 // Seção de Declarações das variáveis 
-nasc, ano_a, idade,id_meses, id_ano: real;
+nasc, ano_a, idade, id_meses, id_ano: real;
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
@@ -21,6 +21,6 @@ id_ano <- 2050 - nasc
 
 escreval (" A idade da pessoa em anos é: ", idade)
 escreval (" A idade da pessoa em meses é: ", id_meses)
-escreval (" A idade da pessoa em 20150 é: ", id_ano)
+escreval (" A idade da pessoa em 2050 é: ", id_ano)
 
 Fimalgoritmo
