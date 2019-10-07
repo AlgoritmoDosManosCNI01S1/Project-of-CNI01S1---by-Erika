@@ -4,11 +4,11 @@ Algoritmo "semnome"
 // Autor(a)    : Francisco Antonio dos Santos Correa
 // Data atual  : 06/10/2019
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 nasc, ano_a, idade,id_meses, id_ano: real;
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
 escreval("Insira o ano de nascimento: ")
 leia (nasc)
 
@@ -19,8 +19,8 @@ idade <- ano_a - nasc
 id_meses <- idade*12
 id_ano <- 2050 - nasc
 
-escreval (" A idade da pessoa em anos é: ", idade)
-escreval (" A idade da pessoa em meses é: ", id_meses)
-escreval (" A idade da pessoa em 20150 é: ", id_ano)
+escreval (" A idade da pessoa em anos Ã©: ", idade)
+escreval (" A idade da pessoa em meses Ã©: ", id_meses)
+escreval (" A idade da pessoa em 2050 Ã©: ", id_ano)
 
 Fimalgoritmo
